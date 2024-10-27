@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fondo", "fondo\fondo.vcxproj", "{1A0406C4-36D8-4DCE-8608-12D619C1F948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0406C4-36D8-4DCE-8608-12D619C1F948}.Debug|x64.ActiveCfg = Debug|x64
+		{1A0406C4-36D8-4DCE-8608-12D619C1F948}.Debug|x64.Build.0 = Debug|x64
+		{1A0406C4-36D8-4DCE-8608-12D619C1F948}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A0406C4-36D8-4DCE-8608-12D619C1F948}.Debug|x86.Build.0 = Debug|Win32
+		{1A0406C4-36D8-4DCE-8608-12D619C1F948}.Release|x64.ActiveCfg = Release|x64
+		{1A0406C4-36D8-4DCE-8608-12D619C1F948}.Release|x64.Build.0 = Release|x64
+		{1A0406C4-36D8-4DCE-8608-12D619C1F948}.Release|x86.ActiveCfg = Release|Win32
+		{1A0406C4-36D8-4DCE-8608-12D619C1F948}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E37C6987-5516-4D3D-97B7-C677F65A84BA}
+	EndGlobalSection
+EndGlobal

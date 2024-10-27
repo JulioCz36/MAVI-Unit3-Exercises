@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julio\\Documents\\TDPV\\1 - Cuatri_2\\MAVI\\Practicas\\Unidad 3\\Transparencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC5FF1-95C6-427C-8648-B16ECA6093E2}|Transparencias\\Transparencias.vcxproj|C:\\Users\\Julio\\Documents\\TDPV\\1 - Cuatri_2\\MAVI\\Practicas\\Unidad 3\\Transparencias\\Transparencias\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7EC5FF1-95C6-427C-8648-B16ECA6093E2}|Transparencias\\Transparencias.vcxproj|solutionrelative:Transparencias\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Julio\\Documents\\TDPV\\1 - Cuatri_2\\MAVI\\Practicas\\Unidad 3\\Transparencias\\Transparencias\\main.cpp",
+              "RelativeDocumentMoniker": "Transparencias\\main.cpp",
+              "ToolTip": "C:\\Users\\Julio\\Documents\\TDPV\\1 - Cuatri_2\\MAVI\\Practicas\\Unidad 3\\Transparencias\\Transparencias\\main.cpp",
+              "RelativeToolTip": "Transparencias\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T15:40:08.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

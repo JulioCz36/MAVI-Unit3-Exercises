@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(20,14): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(20,14): warning C4244:         with
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(20,14): warning C4244:         [
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(20,14): warning C4244:             T=unsigned int
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(20,14): warning C4244:         ]
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(21,15): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(21,15): warning C4244:         with
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(21,15): warning C4244:         [
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(21,15): warning C4244:             T=unsigned int
+C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Sniper^4\main.cpp(21,15): warning C4244:         ]
+  Sniper^4.vcxproj -> C:\Users\Julio\Documents\TDPV\1 - Cuatri_2\MAVI\Practicas\Unidad 3\Sniper^4\Debug\Sniper^4.exe
