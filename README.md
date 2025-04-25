@@ -1,4 +1,4 @@
-# 🧩 Práctica Unidad 3 – MAVII
+# 🧩 Práctica Unidad 3
 
 Conjunto de ejercicios prácticos realizados con **C++ y SFML** para la materia **MAVI**.
 
