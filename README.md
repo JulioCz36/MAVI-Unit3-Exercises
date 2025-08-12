@@ -1,40 +1,38 @@
-# 🧩 Práctica Unidad 3
+# 🧩 Unit 3 Practice
 
-Conjunto de ejercicios prácticos realizados con **C++ y SFML** para la materia **MAVI**.
+A set of practical exercises developed with C++ and SFML for the **MAVI** course.
 
-Los ejercicios hacen uso de **sprites, texturas, escalado, rotación y transparencia**.
+The exercises use **sprites, textures, scaling, rotation, and transparency**.
 
-## ⚙️ Tecnologías utilizadas
+## ⚙️ Technologies Used
 
-- Lenguaje: **C++**
-- Librería gráfica: **SFML**
+- Language: **C++**
+- Graphics library: **SFML**
 - IDE: Visual Studio
 
-## 🧪 Ejercicios incluidos
+## 🧪 Exercises
 
 ### 1. 🎯 Sniper⁴
-Se abre una ventana de **800x600 px** y se dibuja un punto rojo en **cada esquina**.
+An 800x600 px window opens and a red dot is drawn in each corner.
 
-### 2. ♟️ Ajedrez
-Se utiliza un conjunto de imágenes para representar un **tablero de ajedrez** en una ventana de **800x800 px**.
+### 2. ♟️ Chess
+A set of images is used to represent a chessboard in an 800x800 px window.
 
-### 3. 🖼️ Fondo
-Se dibuja la imagen `fondo.jpg` como **fondo completo** de una ventana de **800x600 px**.
+### 3. 🖼️ Background
+The image `fondo.jpg` is drawn as a full background in an 800x600 px window.
 
-### 4. 🧱 Plataformas
-Se reproduce una escena de juego tipo **plataformas**, escalando y posicionando correctamente los elementos gráficos.
+### 4. 🧱 Platforms
+A platformer-like game scene is recreated by scaling and positioning graphical elements correctly.
 
-### 5. 🔁 Rotación
-Se investiga y se aplica **rotación a un sprite animado** en tiempo real.
+### 5. 🔁 Rotation
+Rotation is researched and applied to an animated sprite in real time.
 
-### 6. 🟩 Cuadrados de colores
-Se posicionan y escalan imágenes de colores para reproducir una **escena con figuras geométricas**.
+### 6. 🟩 Colored Squares
+Colored images are positioned and scaled to reproduce a scene with geometric shapes.
 
-### 7. 🎨 Transparencias
-Se crea una nueva imagen con **canal alfa (transparencia)** y se dibuja sobre la escena, superponiendo un punto azul transparente en el centro de la pantalla.
+### 7. 🎨 Transparency
+A new image with an alpha channel (transparency) is created and drawn over the scene, overlaying a transparent blue dot at the center of the screen.
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
-**JulioCZ**  
-2° Cuatrimestre – Año 2024  
-Tecnicatura en Diseño y Programación de Videojuegos
+**JulioCZ** – Technical Degree in Video Game Design and Programming
