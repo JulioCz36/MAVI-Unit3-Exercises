@@ -1,4 +1,4 @@
-# 🧩 Unit 3 Practice
+# 🧩 Unit 3 Practice | MAVI
 
 A set of practical exercises developed with C++ and SFML for the **MAVI** course.
 
